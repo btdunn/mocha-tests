@@ -8,6 +8,6 @@ module.exports = {
 
 console.log(
   sum(1, 2),
-  sum(5, 3),
+  sum(5, 4),
   sum(4, 2),
 )
